@@ -1,1 +1,5 @@
 # MAGD-150
+
+### Lab Assignment 8:For this assignment I decided to add 2 pictures of a dragon ball Z character because I thought it was very creative for the situation.I used a Simple Web server in conjunction with code to make that when it loaded up the web server everything was just there.If even one thing is wrong the Web server will see it as incorrect and it will not work.
+### Lab Assignment 1:This Assignment is essentially just writing down shapes and drawing Black and white.It is very simple and it is used as a foundation for other Assignments that will get harder and harder
+### Lab Assignment 2:For this Assignment I had added shapes that can be interpreted as either a planet/outerspace or ballons.You can also create a background using the color gray.I used 4 different colors.I also drew a circle about 4 times.I used red blue yellow and white because I thought They were very fitting for the assignment.I also checked the assignment on p5.js.com for any errors and luckily no errors were there
